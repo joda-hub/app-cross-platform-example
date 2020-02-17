@@ -1,4 +1,4 @@
-# rne-cross-platform-example
+# app-cross-platform-example
 
 ## A React Native Elements example app for android, iOS, and web that shares a single codebase.
 
